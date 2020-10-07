@@ -1,1 +1,1 @@
-Predict Chonic Disease NUmber
+Predict Chronic Disease Number
